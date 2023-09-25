@@ -7,10 +7,13 @@ The Server is capable of handling 5 clients at the same time, without merging an
 The requests that can be made from the client side are as follows:
 
 1. The Program prompts you to enter the request, possible values: 0 and 1
+   
      a. '0'- This means you want to continue with the purchase and add more items to the list.
+   
      b. '1'- This means that you are done with your purchase and want to finalise the total bill amount.
 
 3. Upon inserting '0' the program will ask you for the UPC(Unique-Product-Code) number.
+4. 
      a. The UPC number is maintained in the Database.txt file which stores the name and price of all the items.
    
          I. When you enter a valid UPC the program will ask for the quantity.
