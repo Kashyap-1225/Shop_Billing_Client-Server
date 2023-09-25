@@ -1,0 +1,7 @@
+102  10 Mango
+103  25 ball
+104  45 cat
+105  78 drum
+106  96 eel
+107  110 fish
+
